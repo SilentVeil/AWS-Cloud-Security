@@ -7,20 +7,16 @@
 ## 🔥 Cloud Security Portfolio
 
 ### 🔐 [IAM Security Lab](https://github.com/SilentVeil/aws-iam-security-lab)
-**Identity & Access Management**  
-Implementing least privilege principles, custom IAM policies, and role-based access control (RBAC) on AWS.
+**Identity & Access Management** - RBAC implementation, password policy hardening, and permission validation testing.
 
-### 🌐 [VPC Network Security Lab](https://github.com/SilentVeil/aws-vpc-security-lab)  
-**Network Security & Segmentation**  
-Secure multi-tier VPC architecture with defense-in-depth using security groups, NACLs, VPC flow logs, and bastion hosts.
+### 🌐 [VPC Security Lab](https://github.com/SilentVeil/aws-vpc-security-lab)  
+**Network Security Architecture** - Multi-tier VPC design, subnet segmentation, security groups, and web server deployment.
 
 ### 📊 [Security Monitoring Lab](https://github.com/SilentVeil/aws-security-monitoring-lab)
-**Compliance & Threat Detection**  
-Comprehensive monitoring system using CloudWatch, CloudTrail, AWS Config, and Athena for audit, compliance, and real-time alerting.
+**Compliance & Threat Detection** - CloudWatch alarms, CloudTrail audit trails, AWS Config compliance monitoring.
 
 ### 🔍 [CloudTrail Forensics Lab](https://github.com/SilentVeil/aws-cloudtrail-forensics-lab)
-**Incident Response & Investigation**  
-Full incident response: Detected unauthorized infrastructure modification → Athena log analysis → Identified attacker → Multi-layer remediation (Cloud + OS).
+**Incident Response & Investigation** - Full forensic analysis of security breach, from detection to multi-layer remediation.
 
 ## 🛠️ Technical Skills
 **Cloud Platforms:** AWS  
