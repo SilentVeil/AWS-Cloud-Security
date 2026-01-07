@@ -21,6 +21,11 @@
 ### 🔐 [AWS Security Hardening Suite](https://github.com/SilentVeil/AWS-security-hardening-suite)
 **Defense-in-Depth Security Implementation** - Comprehensive collection of 4 security labs covering system hardening, data protection, network firewall, and vulnerability management across AWS infrastructure layers.
 
+### 🔐 [My First Python Project: Caesar Cipher](https://github.com/SilentVeil/First-python-project/tree/main)
+**This Caesar Cipher encryption program is the first real code I ever wrote in Python.**
+I built this while taking my first Python course in October 2025, with no prior programming experience.
+
+
 ### 🔗 Individual Labs:
 - **System Hardening:** [EC2 Patch Management](https://github.com/SilentVeil/aws-ec2-patch-management-system)
 - **Data Protection:** [KMS Encryption](https://github.com/SilentVeil/aws-data-protection-encryption-system)  
@@ -58,7 +63,7 @@
 - Exploring DevSecOps and security automation
 
 ## 📫 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/renaldi-tan)
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:renaldialdix@gmail.com)
 
 ---
