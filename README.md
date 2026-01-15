@@ -9,28 +9,38 @@
 ## 📊 Quick Stats
 - **5+** AWS Security Labs
 - **6** Industry Certifications  
-- **4-month** Accelerated Learning
+- **5-month** Accelerated Learning
 - **100%** Hands-on Projects
 
 
-## 🔥 Cloud Security Portfolio
+## 🔥 Cloud Security Portfolio | Learning Progression
 
-### 🔐 [IAM Security Lab](https://github.com/SilentVeil/aws-iam-security-lab)
+
+### ⭐Phase 1: Foundational Security
+
+###  [01-IAM Security Lab](https://github.com/SilentVeil/aws-iam-security-lab)
 **Identity & Access Management** - RBAC implementation, password policy hardening, and permission validation testing.
 
-### 🌐 [VPC Security Lab](https://github.com/SilentVeil/aws-vpc-security-lab)  
+###  [02-VPC Security Lab](https://github.com/SilentVeil/aws-vpc-security-lab)  
 **Network Security Architecture** - Multi-tier VPC design, subnet segmentation, security groups, and web server deployment.
 
-### 📊 [Security Monitoring Lab](https://github.com/SilentVeil/aws-security-monitoring-lab)
+###  [03-Security Monitoring Lab](https://github.com/SilentVeil/aws-security-monitoring-lab)
 **Compliance & Threat Detection** - CloudWatch alarms, CloudTrail audit trails, AWS Config compliance monitoring.
 
-### 🔍 [CloudTrail Forensics Lab](https://github.com/SilentVeil/aws-cloudtrail-forensics-lab)
+
+### ⭐⭐Phase 2: Advanced Scenarios
+
+###  [04-CloudTrail Forensics Lab](https://github.com/SilentVeil/aws-cloudtrail-forensics-lab)
 **Incident Response & Investigation** - Full forensic analysis of security breach, from detection to multi-layer remediation.
 
-### 🔐 [AWS Security Hardening Suite](https://github.com/SilentVeil/AWS-security-hardening-suite)
+###  [05-AWS Security Hardening Suite](https://github.com/SilentVeil/AWS-security-hardening-suite)
 **Defense-in-Depth Security Implementation** - Comprehensive collection of 4 security labs covering system hardening, data protection, network firewall, and vulnerability management across AWS infrastructure layers.
 
-### 🔐 [My First Python Project: Caesar Cipher](https://github.com/SilentVeil/First-python-project/tree/main)
+### ⭐⭐⭐Phase 3: Automation & Scale ⭐ On Progress
+**Security Automation Pipeline** - Terraform + Lambda auto-remediation
+
+### Bonus:
+###  [07-My First Python Project: Caesar Cipher](https://github.com/SilentVeil/First-python-project/tree/main)
 **This Caesar Cipher encryption program is the first real code I ever wrote in Python.**
 I built this while taking my first Python course in October 2025, with no prior programming experience.
 
